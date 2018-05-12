@@ -1,0 +1,107 @@
+body{
+	background: #ffffff;
+}
+
+#banner img{
+  width: 100%;
+}
+
+#logo img{
+  width: 200px;
+  height: 80px;
+  margin-left: 25px;
+}
+
+nav {
+  width: 100%;
+}
+
+nav ul {
+  list-style: none;
+  display: inline-table;
+  width: 100%;
+  margin-top: -40px;
+}
+
+nav ul li {
+  float: right;
+}
+
+nav ul li: hover a{
+  color: #ffffff;
+}
+
+nav ul li a{
+ display: block;
+ padding: 15px;
+ text-decoration: none;
+ margin-right: 30px;
+}
+
+.banner {
+  text-align: center;
+}
+
+#layout1{
+  margin-left: 40px;
+}
+
+#layout2{
+  margin-left: 350px;
+  margin-top: -40px;
+}
+
+#layout3 {
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+#layout4{
+  margin-top: -40px;
+  margin-left: 350px;
+  margin-bottom: 100px;
+}
+
+.explore {
+  width: 800px;
+  height: 100px;
+  margin-bottom: 40px;
+}
+
+button {
+  background: #ffa500;
+  border-color: #ffa500;
+  border-radius: 10%;
+  width: 80px;
+  height: 30px;
+  margin-left: 650px;
+}
+
+footer {
+  width: 100%;
+  align-content: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+footer img {
+  width: 15px;
+  height: 15px;
+}
+
+#kiri {
+  width: 50%;
+  text-align: left;
+}
+
+#kanan {
+  width: 50%;
+  text-align: right;
+  margin-top: -35px;
+  margin-left: 400px;
+}
+
+#kanan img {
+  width: 20px;
+  height: 17px;
+}
